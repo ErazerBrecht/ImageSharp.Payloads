@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharp.Payloads.Gif", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharp.Payloads.Jpeg", "ImageSharp.Payloads.Jpeg\ImageSharp.Payloads.Jpeg.csproj", "{E2748F37-7848-48C3-AA00-A5D11427C18F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharp.Payloads.GifMemory", "ImageSharp.Payloads.GifMemory\ImageSharp.Payloads.GifMemory.csproj", "{B1E876D0-2E3C-47EC-A3CE-AFBD27DDAC84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E2748F37-7848-48C3-AA00-A5D11427C18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2748F37-7848-48C3-AA00-A5D11427C18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2748F37-7848-48C3-AA00-A5D11427C18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E876D0-2E3C-47EC-A3CE-AFBD27DDAC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E876D0-2E3C-47EC-A3CE-AFBD27DDAC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E876D0-2E3C-47EC-A3CE-AFBD27DDAC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E876D0-2E3C-47EC-A3CE-AFBD27DDAC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
